@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.aio
+.parcel-cache/
+coverage/
+*.log
